@@ -3,7 +3,6 @@ import 'package:ecommerce/pages/account_page.dart';
 import 'package:ecommerce/pages/cart_page.dart';
 import 'package:ecommerce/pages/shop_page.dart';
 import 'package:flutter/material.dart';
-import 'package:google_nav_bar/google_nav_bar.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
